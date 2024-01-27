@@ -111,17 +111,3 @@ body{
 #i1nk{
   border:1px solid #a5a5a5;
 }
-body {
-  margin: 0;
-  padding: 0;
-}
-html {
-  overflow: scroll;
-  overflow-x: hidden;
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}
-
-::-webkit-scrollbar {
-  display: none;
-}
