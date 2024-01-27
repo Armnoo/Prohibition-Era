@@ -1,3 +1,116 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.gpd-clm{
+  padding:5px 0;
+}
+.gpd-grid{
+  min-height:auto;
+  padding:10px 0;
+}
+#i2tp{
+  padding:5px 0 5px 0;
+}
+.gpd-header{
+  margin:0;
+}
+#i6kez{
+  flex-basis:157.43%;
+  border:1px solid #a5a5a5;
+}
+.gpd-shape-divider > svg{
+  height:100%;
+  width:100%;
+  transform:scaleY(-1);
+}
+.gpd-shape-divider--fl-v > svg{
+  transform:scaleY(1);
+}
+.gpd-shape-divider--fl-h > svg{
+  transform:scaleX(-1) scaleY(-1);
+}
+.gpd-shape-divider--fl-v-h > svg{
+  transform:scaleY(1) scaleX(-1);
+}
+.gpd-shape-divider > svg > path{
+  fill:currentColor;
+}
+.gpd-shape-divider-inv > path{
+  transform:scale(-1, -1) translate(-100%, -100%);
+}
+#iyq74{
+  background-image:url('https://2.bp.blogspot.com/-GWvbmlmsDB8/V442KwAA8YI/AAAAAAACSeg/tygYVfLAt4wfSwnQzw3guBc_5xXWY1vsgCLcB/s1600/hidding-the-hooch-1920s-5.jpg');
+  background-size:cover;
+  background-position:center center;
+  background-attachment:scroll;
+  background-repeat:no-repeat;
+  height:484px;
+}
+#iyq74{
+  background-image:url('https://2.bp.blogspot.com/-GWvbmlmsDB8/V442KwAA8YI/AAAAAAACSeg/tygYVfLAt4wfSwnQzw3guBc_5xXWY1vsgCLcB/s1600/hidding-the-hooch-1920s-5.jpg');
+  background-size:cover;
+  background-position:center center;
+  background-attachment:scroll;
+  background-repeat:no-repeat;
+}
+#int7s{
+  background-image:url('https://d3d0lqu00lnqvz.cloudfront.net/media/media/c0f20001-e566-4ebf-9c88-f1a5ae278291.jpg');
+  background-size:cover;
+  background-position:center center;
+  background-attachment:scroll;
+  background-repeat:no-repeat;
+  height:304px;
+}
+#iijk{
+  padding:0 0 0 1%;
+}
+#ivszv{
+  padding:0 0 0 1%;
+}
+#iivyl{
+  background-image:url('https://www.opioidhelp.com/app/uploads/2019/01/AdobeStock_190332897.jpeg');
+  background-size:cover;
+  background-position:center center;
+  background-attachment:scroll;
+  background-repeat:no-repeat;
+  height:280px;
+  width:100%;
+}
+#i642g{
+  color:black;
+  height:266.663px;
+  width:100%;
+}
+body{
+  background-color:#424242;
+}
+#ink4f{
+  padding:0 0 0 1%;
+}
+#ius5x{
+  padding:0 0 0 1%;
+}
+#i5w7{
+  border:3px dashed rgb(0, 0, 0);
+}
+#i8z3e{
+  border:3px dashed rgb(0, 0, 0);
+}
+#i2m7c{
+  border:1px solid #a5a5a5;
+}
+#idwbl{
+  border:3px dashed rgb(0, 0, 0);
+}
+#i551q{
+  border:1px solid #a5a5a5;
+}
+#i1nk{
+  border:1px solid #a5a5a5;
+}
 body {
   margin: 0;
   padding: 0;
